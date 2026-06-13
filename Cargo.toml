@@ -1,9 +1,6 @@
 [package]
-description = "ternary-percolate - SuperInstance ecosystem crate"
-repository = "https://github.com/SuperInstance/ternary-percolate"
 name = "ternary-percolate"
 version = "0.1.0"
-license = "MIT OR Apache-2.0"
 edition = "2021"
 
 [dependencies]
